@@ -1,3 +1,10 @@
+#header{
+    background-color: RGBA(255,255,255,0.57);
+    box-shadow: 0px 0px 25px 9px rgba(0, 0, 0, .3);
+    border-radius: 15px;
+    padding: 1rem;
+}
+
 #name{
     font-family: 'DM Sans', sans-serif;
 }
@@ -18,4 +25,8 @@ img{
     max-height: 200px;
     margin-left: auto;
     margin-right: auto;
+}
+
+#pic-of-me{
+    box-shadow: 0px 0px 25px 9px rgba(0, 0, 255, .3);
 }
