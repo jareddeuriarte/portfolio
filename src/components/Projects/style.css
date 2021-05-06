@@ -1,0 +1,29 @@
+img{
+    border-radius: 50%;
+    max-width: 200px;
+    max-height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-container{
+    place-items: end center;
+    text-align: center;
+}
+
+.wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+  .wrapper .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+
+  .wrapper:hover .img-top{
+    display: inline;
+  }

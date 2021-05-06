@@ -1,6 +1,6 @@
 import Header from "./components/Header/index"
-import Project from "./components/Project"
-import Footer from "./components/Footer"
+import Project from "./components/Projects/index"
+import Footer from "./components/Footer/index"
 
 
 function App() {
