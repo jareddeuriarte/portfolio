@@ -19,8 +19,5 @@ function Header() {
 
 export default Header;
 
-
-
-
 // Break Free video rotation
 // https://www.youtube.com/watch?v=Oty8XpxToas
