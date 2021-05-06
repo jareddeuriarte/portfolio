@@ -1,10 +1,12 @@
-body{
-    background: linear-gradient(38deg, rgba(181, 215, 245, .5), rgba(255,0,0,0) 70.71%),
-            linear-gradient(33deg, rgba(120, 144, 34, .5), rgba(0,255,0,0) 70.71%),
-            linear-gradient(125deg, rgba( 232, 235, 248, .7), rgba(0,0,255,0) 70.71%);
+*{
+    font-family: 'Cutive Mono', monospace;
 }
 
-
+body{
+    background: linear-gradient(38deg, rgba(181, 215, 245, .5), rgba(255,0,0,0) 70.71%),
+                linear-gradient(33deg, rgba(120, 144, 34, .5), rgba(0,255,0,0) 70.71%),
+                linear-gradient(125deg, rgba( 232, 235, 248, .7), rgba(0,0,255,0) 70.71%);
+}
 
 /* Rainbow gradient
 background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
