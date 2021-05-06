@@ -7,15 +7,27 @@ function Footer() {
     <div id='footer'>
         <div className="row contact" id="contact">
             <div className="four columns">
-                <h6>954-751-9104‬</h6>
+                <div>954-751-9104‬</div>
             </div>
             <div className="four columns">
-                <h6><a href="deuriartejared@gmail.com">email</a></h6>
+                <div><a href="deuriartejared@gmail.com">email</a></div>
             </div>
 
             <div className="four columns">
-                <h6><a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/jareddeuri">linkedin</a></h6>
+                <div><a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/jareddeuri">linkedin</a></div>
             </div>
+
+
+            <div class="three columns links">
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/jareddeuriarte">github</a>
+            </div>
+
+
+            <div class="three columns links">
+                <a target="_blank" rel="noopener noreferrer" href="resume/deUriarteJared-resume.pdf">resume</a>
+            </div>
+
+
         </div>
     </div>
   );

@@ -7,9 +7,6 @@ function ProjectWrapper() {
   return (
     <div id="project-container">
         <Project/>
-
-
-   
     </div>
   );
 }
