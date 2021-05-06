@@ -8,7 +8,19 @@ function ProjectWrapper() {
   return (
     <div id="project-container">
 
-      <Project
+      {projects.map(project => (
+        <Project
+        title={project.title}
+        url={project.url}
+        altTop={project.altTop}
+        imageTop={project.imageTop}
+        altBottom={project.altBottom}
+        imageBottom={project.imageBottom}
+        git={project.git}
+        />
+      ))}
+
+      {/* <Project
         title={projects[0].title}
         url={projects[0].url}
         altTop={projects[0].altTop}
@@ -36,9 +48,7 @@ function ProjectWrapper() {
         altBottom={projects[2].altBottom}
         imageBottom={projects[2].imageBottom}
         git={projects[2].git}
-
-
-      />
+      /> */}
 
     </div>
   );
