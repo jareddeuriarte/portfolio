@@ -18,12 +18,12 @@ function Footer() {
             </div>
 
 
-            <div class="three columns links">
+            <div className="three columns links">
                 <a target="_blank" rel="noopener noreferrer" href="https://github.com/jareddeuriarte">github</a>
             </div>
 
 
-            <div class="three columns links">
+            <div className="three columns links">
                 <a target="_blank" rel="noopener noreferrer" href="resume/deUriarteJared-resume.pdf">resume</a>
             </div>
 
