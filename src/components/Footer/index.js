@@ -4,8 +4,16 @@ import "./style.css";
 
 function Footer() {
   return (
-    <div id='footer'>
-        
+    <div >
+
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      
+        <div id='footer'>
             <div className="four columns">
                 <div>954-751-9104‬</div>
             </div>
@@ -19,6 +27,7 @@ function Footer() {
 
             <div className="three columns links">
                 <a target="_blank" rel="noopener noreferrer" href="resume/deUriarteJared-resume.pdf">resume</a>
+            </div>
             </div>
 
 
