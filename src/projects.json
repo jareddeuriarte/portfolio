@@ -28,5 +28,35 @@
         "imageBottom": "images/password-generator-screenshot.png",
         "git":"https://github.com/jareddeuriarte/password-generator"
 
+    },
+    {
+        "title": "budget tracker",
+        "url": "https://infinite-thicket-46031.herokuapp.com/",
+        "altTop": "budget-tracker-code",
+        "imageTop": "images/budget-tracker-code.png", 
+        "altBottom": "budget-tracker-screenshot",
+        "imageBottom": "images/budget-tracker-screenshot.png",
+        "git":"https://github.com/jareddeuriarte/budget-tracker"
+
+    },
+    {
+        "title": "groupie",
+        "url": "https://project-2-groupie.herokuapp.com/",
+        "altTop": "groupie-code",
+        "imageTop": "images/groupie-code.png", 
+        "altBottom": "groupie-screenshot",
+        "imageBottom": "images/groupie-screenshot.png",
+        "git":"https://github.com/jareddeuriarte/Project-2"
+
+    },
+    {
+        "title": "note taker",
+        "url": "https://jot-it-down.herokuapp.com/",
+        "altTop": "note-tacker-code",
+        "imageTop": "images/note-taker-code.png", 
+        "altBottom": "note-taker-screenshot",
+        "imageBottom": "images/note-taker-screenshot.png",
+        "git":"https://github.com/jareddeuriarte/note-taker"
+
     }
 ]

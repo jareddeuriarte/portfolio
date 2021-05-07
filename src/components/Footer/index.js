@@ -5,7 +5,7 @@ import "./style.css";
 function Footer() {
   return (
     <div id='footer'>
-        <div className="row contact" id="contact">
+        
             <div className="four columns">
                 <div>954-751-9104‬</div>
             </div>
@@ -22,7 +22,7 @@ function Footer() {
             </div>
 
 
-        </div>
+        
     </div>
   );
 }
