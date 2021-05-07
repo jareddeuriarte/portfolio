@@ -67,3 +67,16 @@ img{
     font-size: 2.8rem;
     color:black;
 }
+
+
+
+
+@media (max-width: 768px) {
+    #header {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+
+    
+  }

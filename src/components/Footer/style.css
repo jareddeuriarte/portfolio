@@ -10,6 +10,18 @@
     justify-content: space-around;
     max-width: 27%;
     margin: auto;
+    
 }
 
+
+@media (max-width: 768px) {
+
+
+    #footer {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    
+  }
 
