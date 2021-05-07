@@ -17,12 +17,6 @@ function Footer() {
                 <div><a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/jareddeuri">linkedin</a></div>
             </div>
 
-
-            <div className="three columns links">
-                <a target="_blank" rel="noopener noreferrer" href="https://github.com/jareddeuriarte">github</a>
-            </div>
-
-
             <div className="three columns links">
                 <a target="_blank" rel="noopener noreferrer" href="resume/deUriarteJared-resume.pdf">resume</a>
             </div>
