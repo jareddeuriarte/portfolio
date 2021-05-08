@@ -12,6 +12,7 @@ function Header() {
       <p id="bio"><span>Drawn to that magic where creativity and problem solving meet—coding.
       If I'm not in front of a screen and on the internet, I'm either on my bike, attending to my plants,
       or listening to<a className="breakFree" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=FN5EJz9lMuM"> 'Break Free' </a>by Ariana Grande.</span></p>
+      <p id='darkMode'>#teamDarkMode</p>
       
       <span>
       <a target="_blank" rel="noopener noreferrer" href='https://github.com/jareddeuriarte'><i className="fa">&#xf09b;</i></a>

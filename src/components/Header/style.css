@@ -68,7 +68,9 @@ img{
     color:black;
 }
 
-
+#darkMode{
+    margin-top: 0;
+}
 
 
 @media (max-width: 768px) {
