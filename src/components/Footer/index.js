@@ -18,7 +18,7 @@ function Footer() {
                 <div>954-751-9104‬</div>
             </div>
             <div className="four columns">
-                <div><a href="deuriartejared@gmail.com">email</a></div>
+                <div><a href="mailto: deuriartejared@gmail.com">deuriartejared@gmail.com</a></div>
             </div>
 
             <div className="four columns">
