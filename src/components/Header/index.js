@@ -9,7 +9,7 @@ function Header() {
       <div id='bio'>
       <h1 id="name">Jared de Uriarte</h1>
       <h2 id="web-dev">web developer</h2>
-      <p id="bio"><span> I'm generally curious about the question:n how can interfacing with technology enhance how we interface with the world.
+      <p id="bio"><span> I'm generally curious about the question: how can interfacing with technology enhance how we interface with the world.
       If I'm not in front of a screen and on the internet, I'm either on my bike, attending to my plants,
       or listening to<a className="breakFree" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=FN5EJz9lMuM"> 'Break Free' </a>by Ariana Grande.</span></p>
       <p id='darkMode'>#teamDarkMode</p>
