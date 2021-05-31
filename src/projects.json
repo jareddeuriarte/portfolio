@@ -30,13 +30,13 @@
 
     },
     {
-        "title": "budget tracker",
-        "url": "https://infinite-thicket-46031.herokuapp.com/",
-        "altTop": "budget-tracker-code",
-        "imageTop": "images/budget-tracker-code.png", 
-        "altBottom": "budget-tracker-screenshot",
-        "imageBottom": "images/budget-tracker-screenshot.png",
-        "git":"https://github.com/jareddeuriarte/budget-tracker"
+        "title": "my google books",
+        "url": "https://morning-harbor-85685.herokuapp.com/",
+        "altTop": "google-books-code",
+        "imageTop": "images/google-books-code.png", 
+        "altBottom": "google-books-screenshot",
+        "imageBottom": "images/google-books-screenshot.png",
+        "git":"https://github.com/jareddeuriarte/google-books"
 
     },
     {
