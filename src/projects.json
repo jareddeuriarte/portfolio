@@ -1,5 +1,15 @@
 [
     {
+        "title": "boilerplate",
+        "url": "https://boilerplate-application.herokuapp.com/",
+        "altTop": "boilerplate-code",
+        "imageTop": "images/boilerplate-code.png", 
+        "altBottom": "boilerplate-screenshot",
+        "imageBottom": "images/boilerplate-screenshot.png",
+        "git":"https://github.com/jareddeuriarte/boilerplate"
+
+    },
+    {
         "title": "provisions",
         "url": "https://petermodavis.github.io/provisions/",
         "altTop": "provisions-code",
@@ -8,6 +18,26 @@
         "imageBottom": "images/provisions-screenshot.png",
         "git":"https://github.com/jareddeuriarte/provisions"
         
+    },
+    {
+        "title": "my google books",
+        "url": "https://morning-harbor-85685.herokuapp.com/",
+        "altTop": "google-books-code",
+        "imageTop": "images/google-books-code.png", 
+        "altBottom": "google-books-screenshot",
+        "imageBottom": "images/google-books-screenshot.png",
+        "git":"https://github.com/jareddeuriarte/google-books"
+
+    },
+    {
+        "title": "budget tracker",
+        "url": "https://infinite-thicket-46031.herokuapp.com/",
+        "altTop": "budget-tracker-code",
+        "imageTop": "images/budget-tracker-code.png", 
+        "altBottom": "budget-tracker-screenshot",
+        "imageBottom": "images/budget-tracker-screenshot.png",
+        "git":"https://github.com/jareddeuriarte/budget-tracker"
+
     },
     {
         "title": "weather dashboard",
@@ -28,35 +58,6 @@
         "imageBottom": "images/password-generator-screenshot.png",
         "git":"https://github.com/jareddeuriarte/password-generator"
 
-    },
-    {
-        "title": "my google books",
-        "url": "https://morning-harbor-85685.herokuapp.com/",
-        "altTop": "google-books-code",
-        "imageTop": "images/google-books-code.png", 
-        "altBottom": "google-books-screenshot",
-        "imageBottom": "images/google-books-screenshot.png",
-        "git":"https://github.com/jareddeuriarte/google-books"
-
-    },
-    {
-        "title": "boilerplate",
-        "url": "https://boilerplate-application.herokuapp.com/",
-        "altTop": "boilerplate-code",
-        "imageTop": "images/boilerplate-code.png", 
-        "altBottom": "boilerplate-screenshot",
-        "imageBottom": "images/boilerplate-screenshot.png",
-        "git":"https://github.com/jareddeuriarte/boilerplate"
-
-    },
-    {
-        "title": "budget tracker",
-        "url": "https://infinite-thicket-46031.herokuapp.com/",
-        "altTop": "budget-tracker-code",
-        "imageTop": "images/budget-tracker-code.png", 
-        "altBottom": "budget-tracker-screenshot",
-        "imageBottom": "images/budget-tracker-screenshot.png",
-        "git":"https://github.com/jareddeuriarte/budget-tracker"
-
     }
+    
 ]
