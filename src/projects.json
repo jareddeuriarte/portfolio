@@ -40,13 +40,13 @@
 
     },
     {
-        "title": "groupie",
-        "url": "https://project-2-groupie.herokuapp.com/",
-        "altTop": "groupie-code",
-        "imageTop": "images/groupie-code.png", 
-        "altBottom": "groupie-screenshot",
-        "imageBottom": "images/groupie-screenshot.png",
-        "git":"https://github.com/jareddeuriarte/Project-2"
+        "title": "boilerplate",
+        "url": "https://boilerplate-application.herokuapp.com/",
+        "altTop": "boilerplate-code",
+        "imageTop": "images/boilerplate-code.png", 
+        "altBottom": "boilerplate-screenshot",
+        "imageBottom": "images/boilerplate-screenshot.png",
+        "git":"https://github.com/jareddeuriarte/boilerplate"
 
     },
     {
