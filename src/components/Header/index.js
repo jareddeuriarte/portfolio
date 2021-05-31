@@ -9,7 +9,7 @@ function Header() {
       <div id='bio'>
       <h1 id="name">Jared de Uriarte</h1>
       <h2 id="web-dev">web developer</h2>
-      <p id="bio"><span>Drawn to that magic where creativity and problem solving meet—coding.
+      <p id="bio"><span> Driven by the question: how can interfacing with technology enhance how we interface with the world.
       If I'm not in front of a screen and on the internet, I'm either on my bike, attending to my plants,
       or listening to<a className="breakFree" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=FN5EJz9lMuM"> 'Break Free' </a>by Ariana Grande.</span></p>
       <p id='darkMode'>#teamDarkMode</p>
@@ -22,7 +22,7 @@ function Header() {
     
     </div>
 
-      <img id='pic-of-me' alt="me!" src="images/pic-of-me.jpg"></img>
+      <img id='pic-of-me' alt="me!" src="images/pic-of-me.png"></img>
 
     </div>
   );
