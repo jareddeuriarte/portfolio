@@ -68,16 +68,6 @@
         "imageBottom": "images/password-generator-screenshot.png",
         "git":"https://github.com/jareddeuriarte/password-generator"
 
-    },
-    {
-        "title": "password generator",
-        "url": "https://jareddeuriarte.github.io/password-generator/",
-        "altTop": "pasword-generator-code",
-        "imageTop": "images/password-generator.png", 
-        "altBottom": "screenshot",
-        "imageBottom": "images/password-generator-screenshot.png",
-        "git":"https://github.com/jareddeuriarte/password-generator"
-
     }
     
 ]
