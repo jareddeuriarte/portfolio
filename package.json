@@ -1,8 +1,8 @@
 {
-  "name": "react-portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jareddeuriarte.github.io/react-portfolio",
+  "homepage": "https://jareddeuriarte.github.io/portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
